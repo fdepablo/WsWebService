@@ -34,7 +34,7 @@
   		Las primeras son JUNIT, librerías para ejecutar pruebas unitarias
   		
   		Las segundas es para poder utilizar el cliente SOAP en las pruebas unitarias
-  		(Solo necesarias desde Java 11)
+  		(Solo necesarias desde Java 11, antes venian incluidas por defecto)
   	-->
 		<dependency>
 			<groupId>junit</groupId>
